@@ -1,2 +1,2 @@
-# Angular
-Projetos desenvolvidos com Angular para o bootcamp da DIO.
+# Angular-Frontend/e-comerce
+Projeto desenvolvido com Angular para o bootcamp da DIO.
